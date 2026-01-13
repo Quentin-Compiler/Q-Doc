@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Q Language
   Q-Lang on Github by nathanschmid08
   Quentin Compiler on Github by nathanschmid08
-baseurl: "/Lang-Doc" # the subpath of your site, e.g. /blog
+baseurl: "/Q-Doc" # the subpath of your site, e.g. /blog
 url: "https://quentin-compiler.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
